@@ -4,7 +4,7 @@ Machine learning and logistic regression predictions of retained customers
 This code runs a customer retention analysis of customers over the course of 6 months. The data include 50,000 customer records in 3 cities, and 12 factors that can be used to predict retention.
 
 The goals of the analysis are:
-  • Perform an exploratory analysi and visualizations to understand the data.
+Perform an exploratory analysi and visualizations to understand the data.
   • Build a model to predict whether or not a customer will be active in their 6th month after joining.
 
 The analysis consists of:
